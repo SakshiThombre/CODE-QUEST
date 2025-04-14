@@ -1,0 +1,11 @@
+<?php
+       require("dbcon.php");
+       session_start();
+       $sid=trim($_GET["id"]);
+       $subjectname=trim($_GET["subject"]);
+       $questionset=trim($_GET["set"]);
+       $_SESSION["id"]=trim($sid);
+       $_SESSION["subjectname"]=trim($subjectname);
+       $_SESSION["level"]=trim($questionset);
+       echo"<script>open('../master/addquestion.php','_self')</script>";
+?>
