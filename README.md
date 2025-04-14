@@ -12,9 +12,13 @@ CODE-QUEST: The Ultimate Coding Adventure
 </li>
   <li>PHP: For server-side logic, session management, and database integration.
 </li>
-
-
-
-
    </ul>
+</ul>
+<br>
+<ul>
+ <b>Real-Time Use of Code Quest</b>
+ <li>Live Coding Challenges in Classrooms or Workshops</li>
+  <li>Skill Assessment During Interviews</li>
+  <li>Self-Paced Learning with Instant Feedback</li>
+  <li>Hackathons & Coding Events</li>
 </ul>
