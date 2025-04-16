@@ -1,7 +1,7 @@
 # CODE_QUEST
 CODE-QUEST: The Ultimate Coding Adventure
 <br>
-<p>Project Available on :<b></b>https://gameexam.in/</b></p>
+
 <b>Code-Quest</b> is an interactive browser-based game designed to test and enhance your front-end and back-end web development skills. Built with HTML, CSS, Bootstrap, JavaScript, PHP, and jQuery, the game combines  multiple choice questions.
 <ul>
 <b> Tech Stack</b>
